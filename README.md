@@ -1,4 +1,6 @@
 # Azure Hub–Spoke Architecture with VMSS
+<img width="900" height="579" alt="image" src="https://github.com/user-attachments/assets/59dc4a7b-ec49-4e7d-abce-f4209f84cee1" />
+
 
 ## Overview
 This project implements a production-grade Azure hub–spoke architecture using Terraform.
@@ -31,5 +33,7 @@ terraform init
 terraform plan
 terraform apply
 
-<img width="900" height="579" alt="image" src="https://github.com/user-attachments/assets/2c2e51ee-0cc4-4ea5-a9be-6e9ae2e2ef2f" />
+
+
+
 
