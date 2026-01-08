@@ -1,0 +1,24 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+*.log
+
+# Terraform variable files (may contain secrets)
+terraform.tfvars
+
+# SSH Keys
+*.pem
+*.key
+ssh-keys/
+
+# OS / Editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# CLI / Temp
+*.out
+*.tmp
