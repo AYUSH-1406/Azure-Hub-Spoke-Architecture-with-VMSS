@@ -1,6 +1,4 @@
 # Azure Hub–Spoke Architecture with VMSS
-<img width="900" height="579" alt="image" src="https://github.com/user-attachments/assets/59dc4a7b-ec49-4e7d-abce-f4209f84cee1" />
-
 
 ## Overview
 This project implements a production-grade Azure hub–spoke architecture using Terraform.
@@ -26,6 +24,10 @@ This project implements a production-grade Azure hub–spoke architecture using 
 - VM Scale Sets
 - Application Gateway
 - Private DNS
+
+
+<img width="900" height="579" alt="image" src="https://github.com/user-attachments/assets/59dc4a7b-ec49-4e7d-abce-f4209f84cee1" />
+
 
 ## How to Use
 ```bash
